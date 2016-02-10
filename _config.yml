@@ -1,0 +1,28 @@
+name: mwaxman-lenz
+favicon: null
+layout_spectrum: 0.7749930417630821
+typography_spectrum: 0.374582695774734
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7840224499814212
+  lightness: 0.35280223307199776
+  saturation: 0.9048943344969302
+  rhythmicContrast: 0.1892889100126922
+purpose: []
